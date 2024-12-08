@@ -57,7 +57,7 @@
 3. 발급된 REST API 키를 프로젝트 코드에 설정합니다.
 4. https://kauth.kakao.com/oauth/authorize?response_type=code&client_id=YOUR_REST_API_KEY&redirect_uri=YOUR_REDIRECT_URI&scope=talk_message 자신의 REST_API를 넣어 토큰을 받습니다.
 5. http://localhost?code=YOUR_AUTHORIZATION_CODE (인가코드를 받습니다.) 인가코드를 이용하여 토큰을 받습니다.(acccess_token.py/send_kakao.py 수정)
-4. `Access_Token.py`를 실행하여 `kakao_tokens.json` 파일을 생성합니다:
+6. `Access_Token.py`를 실행하여 `kakao_tokens.json` 파일을 생성합니다:
    ```bash
    python Access_Token.py
 
