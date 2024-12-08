@@ -103,12 +103,11 @@
 ### 스크린샷
 
 1. **얼굴 인식 화면**  
-   ![얼굴 인식 화면](https://via.placeholder.com/600x400?text=Face+Recognition+Screen)
+   ![TRUE](https://github.com/username/repo-name/blob/main/images/test_image.png)
+   ![FALSE]("C:\Users\hyeri\Desktop\OSS\test_image_false.png")
 
-2. **출석 기록 CSV**  
-   ![출석 기록 CSV](https://via.placeholder.com/600x400?text=Attendance+CSV)
 
-3. **카카오톡 메시지 전송 화면**  
+2. **카카오톡 메시지 전송 화면**  
    ![카카오톡 메시지 화면](https://via.placeholder.com/600x400?text=KakaoTalk+Message)
 
 ---
