@@ -104,11 +104,11 @@
 
 1. **얼굴 인식 화면**  
    ![TRUE](https://github.com/Hyerim20/Face-Recognition-Attendence-Record/blob/main/test_image.png)
-   ![FALSE](["C:\Users\hyeri\Desktop\OSS\test_image_false.png"](https://github.com/Hyerim20/Face-Recognition-Attendence-Record/blob/main/test_image_false.png))
+   ![FALSE](https://github.com/Hyerim20/Face-Recognition-Attendence-Record/blob/main/test_image_false.png)
 
 
 2. **카카오톡 메시지 전송 화면**  
-   ![카카오톡 메시지 화면]([https://via.placeholder.com/600x400?text=KakaoTalk+Message](https://github.com/Hyerim20/Face-Recognition-Attendence-Record/blob/main/출석 카톡으로 보내기.png))
+   ![카카오톡 메시지 화면](https://github.com/Hyerim20/Face-Recognition-Attendence-Record/blob/main/출석 카톡으로 보내기.png)
 
 ---
 
