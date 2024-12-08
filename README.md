@@ -77,16 +77,16 @@
 ### 2. 웹캠 테스트
 - 'TestProject.py'를 실행하여 실시간 얼굴 감지를 테스트합니다. :
   ```bash
- python TestProject.py
+  python TestProject.py
 
  ### 3. 출석 기록 테스트
 - 웹캠에서 감지된 얼굴 정보를 Attendance.csv 파일에 기록합니다 :
   ```bash
- python FaceAttendance.py
+  python FaceAttendance.py
 
 - 기록된 데이터는 send_kakao.py를 통해 카카오톡으로 전송 가능합니다:
   ```bash
- python send_kakao.py
+  python send_kakao.py
 
 ---
 
