@@ -42,13 +42,16 @@
 
 ## 실행 환경
 
-- Python 3.7 이상  
-- 필수 라이브러리 설치:
-  ```bash
-  pip install face_recognition opencv-python requests numpy
-ognition-Attendence-Record
+### 1. 카카오 API 설정
+1. [카카오 개발자 센터](https://developers.kakao.com)에서 앱을 생성합니다.
+2. 앱 설정에서 Redirect URI를 `http://localhost`로 추가합니다.
+3. 발급된 REST API 키를 프로젝트 코드에 설정합니다.
+4. https://kauth.kakao.com/oauth/authorize?response_type=code&client_id=a8d0a1ab74c96d69b18a033c3bc43b8a&redirect_uri=http://localhost 브라우저에 입력하고 인가 코드를 받습니다.
+5. http://localhost/?code=인가코드 인가코드가 나온 부분을 복사하여 send_kako.py와 Access_Token.py 부분에 넣습니다. 
+6. `Access_Token.py`를 실행하여 `kakao_tokens.json` 파일을 생성합니다:
+   ```bash
+   python Access_Token.py
 
----
 ---
 
 ## 테스트
