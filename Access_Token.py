@@ -4,9 +4,9 @@ import json
 url = "https://kauth.kakao.com/oauth/token"
 data = {
     "grant_type": "authorization_code",
-    "client_id": "2c4b22a97f375523908cdf4d57fe147e",  # REST API 키
+    "client_id": "1964cb99de158dcb5c6a86775a395cd5",  # REST API 키
     "redirect_uri": "http://localhost",               # Redirect URI
-    "code": "yjoYEtAxB_XGwSYsxoYs2HPvnZg2hu5rEuAFMQp4-Fcewrb4kstO7wAAAAQKKiVPAAABk58mGR237mS5Kc-sjw"  # 새로운 인가 코드
+    "code": "44jiTeiw9TOjGoyey4PdfRVGEYqQ4LSG0SLcQTRK231eaJt2SwstuwAAAAQKPXQRAAABk6P9AVH7Ewsnpgvovw"  # 새로운 인가 코드
 }
 
 response = requests.post(url, data=data)

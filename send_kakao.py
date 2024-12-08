@@ -21,7 +21,7 @@ def refresh_access_token(refresh_token):
     url = "https://kauth.kakao.com/oauth/token"
     data = {
         "grant_type": "refresh_token",
-        "client_id": "2c4b22a97f375523908cdf4d57fe147e",  # REST API 키
+        "client_id": "1964cb99de158dcb5c6a86775a395cd5",  # REST API 키
         "refresh_token": refresh_token
     }
 
