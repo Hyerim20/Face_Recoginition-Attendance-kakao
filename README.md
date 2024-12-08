@@ -87,7 +87,7 @@ ognition-Attendence-Record
 
 1. **얼굴 인식 화면**  
    ![TRUE](https://github.com/Hyerim20/Face_Recoginition-Attendance-kakao/blob/main/test_image.png)
-   ![FALSE](https://github.com/Hyerim20/Face_Recoginition-Attendance-kakao/blob/main/test_image.png)
+   ![FALSE](https://github.com/Hyerim20/Face_Recoginition-Attendance-kakao/blob/main/test_image_false.png)
 
 2**카카오톡 메시지 전송 화면**  
    ![카카오톡 메시지 화면](https://github.com/Hyerim20/Face_Recoginition-Attendance-kakao/blob/main/kakao_send_image.png)
