@@ -1,4 +1,4 @@
-# Face-Rec# Face Recognition Attendance System
+# Face Recognition Attendance System
 
 ## 소개
 이 프로젝트는 학교에서 출석체크 시 대리출석 방지를 목표로 개발된 **얼굴 인식 기반 출석 관리 시스템**입니다.  
@@ -86,11 +86,11 @@ ognition-Attendence-Record
 ### 스크린샷
 
 1. **얼굴 인식 화면**  
-   ![TRUE](https://github.com/Hyerim20/Face-Recognition-Attendence-Record/blob/main/test_image.png)
-   ![FALSE](https://github.com/Hyerim20/Face-Recognition-Attendence-Record/blob/main/test_image_false.png)
+   ![TRUE](https://github.com/Hyerim20/Face_Recoginition-Attendance-kakao/blob/main/test_image.png)
+   ![FALSE](https://github.com/Hyerim20/Face_Recoginition-Attendance-kakao/blob/main/test_image.png)
 
 2**카카오톡 메시지 전송 화면**  
-   ![카카오톡 메시지 화면](https://github.com/Hyerim20/Face-Recognition-Attendence-Record/blob/main/kakao_send_image.png)
+   ![카카오톡 메시지 화면](https://github.com/Hyerim20/Face_Recoginition-Attendance-kakao/blob/main/kakao_send_image.png)
 
 ------
 
